@@ -1,4 +1,4 @@
-# proyecto_final-pln-mcd
+# Proyecto Final PLN
 
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo analizar las opiniones negativas de los usuarios de un servicio de alimentos en línea para priorizar su atención y mejorar la experiencia del cliente. Utilizamos técnicas avanzadas de Procesamiento de Lenguaje Natural (PLN) y aprendizaje automático para identificar automáticamente reviews con calificaciones bajas (1 y 2), explorar sus temas predominantes y ofrecer información que permita acciones correctivas.
