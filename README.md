@@ -43,7 +43,7 @@ La técnica de LDA permitió identificar estos tópicos y generó insights accio
 
 ## Tecnologías Utilizadas
 - Python (NLTK, scikit-learn, HuggingFace)
-- Modelos preentrenados de BERT y ELECTRA en español
+- Modelos preentrenados de BERT
 - Herramientas de visualización como WordCloud y Matplotlib
 
 ## Contribuciones y opiniones finales
