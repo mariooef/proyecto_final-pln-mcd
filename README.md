@@ -28,8 +28,9 @@ Este proyecto tiene como objetivo analizar las opiniones negativas de los usuari
   - Este modelo demostró ser el más robusto para identificar opiniones negativas, gracias al aprendizaje contextual de BERT.
   - 
 - **Modelos Clásicos (Logistic Regression):**
-  - **F1-score promedio:** 85%.
+  - **F1-score promedio:** 88%.
   - Aunque estos modelos lograron resultados decentes, fueron superados por los modelos de lenguaje preentrenados en términos de precisión y recall.
+  - La gran diferencia es que este modelo no requiere de tanto poder de cómputo, por lo tanto, consideramos que es una buena opción cuando existen limitantes en este aspecto. 
 
 ### Modelado de Tópicos
 El análisis de tópicos reveló los siguientes temas recurrentes en las opiniones negativas:
